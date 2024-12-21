@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there, I'm aaxxios! 👋
 
-<!--
-**aaxxios/aaxxios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a passionate developer with a keen interest in web and Android development. I prefer advanced stuffs in my domain
 
-Here are some ideas to get you started:
+## Skills
+- **Languages:** C#, Python, Kotlin 
+- **Frameworks & Libraries:** ASP Net Core, EF Core, FastAPI, Blazor, Compose
+- **Tools & Platforms:** Git, Docker, AWS, Azure, Linux, Redis, Kafka, Kubernetes, Postman, Android
+- **Databases:** PostgreSQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## GitHub Stats
+![aaxxios's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaxxios&show_icons=true&theme=radical)
