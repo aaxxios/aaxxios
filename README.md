@@ -5,6 +5,6 @@ I'm a passionate developer with a keen interest in web and Android development. 
 
 ## Skills
 - **Languages:** C#, Python, Kotlin 
-- **Frameworks & Libraries:** ASP Net Core, EF Core, FastAPI, Blazor, Compose
+- **Frameworks & Libraries:** ASP Net Core, EF Core, FastAPI, Blazor, Jetpack Compose
 - **Tools & Platforms:** Git, Docker, AWS, Azure, Linux, Redis, Kafka, Kubernetes, Postman, Android
 - **Databases:** PostgreSQL
