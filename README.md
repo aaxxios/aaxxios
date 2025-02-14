@@ -1,4 +1,4 @@
-# Hi there, I'm aaxxios! 👋
+# Hi there, I'm James Abas! 👋
 
 ## About Me
 I'm a passionate developer with a keen interest in web and Android development. I prefer advanced stuffs in my domain
